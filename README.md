@@ -1,4 +1,26 @@
-## Hi there 👋
+
+<p align="center"> 
+   <img width ="250" src="https://files.catbox.moe/afb8z5.png"
+     </p>
+     
+   <p align="center">
+  <img width="250" src="https://files.catbox.moe/8snx2b.png"
+</p>
+  
+<p align="center">
+   <img width="250" src="https://i.ibb.co/5hTscb3M/Untitled20-20251123175625.png"
+</p>
+
+
+<p align="center">
+ <img width="80" src="https://files.catbox.moe/ureiix.gif" />
+ <img width="80" src="https://files.catbox.moe/j4xitf.png" />
+ <img width="80" src="https://files.catbox.moe/m7akru.gif" />
+</p>
+
+ <p align="center">
+  <img width="200" src="https://files.catbox.moe/wf8758.png"
+</p>
 
 <!--
 **fallencastiel/fallencastiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
