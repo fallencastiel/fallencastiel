@@ -12,7 +12,7 @@
 </p>
   
 <p align="center">
-   <img width="250" src="https://files.catbox.moe/qv0d0l.gif"
+   <img width="250" src="https://files.catbox.moe/wudqrf.gif"
 </p>
    <p align="center">
   <img width="250" src="https://files.catbox.moe/8snx2b.png"
@@ -26,9 +26,7 @@
  <img width="70" src="https://files.catbox.moe/m7akru.gif" />
 </p>
 
-<p align="center"> 
-<img width="100" src="https://files.catbox.moe/48bgfy.gif" />
-</p>
+
 
 
 
