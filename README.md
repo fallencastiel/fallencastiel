@@ -1,7 +1,4 @@
 
-<p align="center"
-   <img width="100" src="https://files.catbox.moe/bm2t5h.gif" 
-</p>
 
 <p align="center"> 
    <img width ="250" src="https://files.catbox.moe/afb8z5.png"
@@ -12,9 +9,12 @@
 </p>
   
 <p align="center">
-   <img width="250" src="https://files.catbox.moe/wudqrf.gif"
+   <img width="250" src="https://files.catbox.moe/eta3dg.jpeg"
 </p>
-   <p align="center">
+   <p align="right">
+       @mahawavy
+   </p>
+<p align="center">
   <img width="250" src="https://files.catbox.moe/8snx2b.png"
 </p>
   
