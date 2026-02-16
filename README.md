@@ -22,7 +22,7 @@
 
 <p align="center">
  <img width="70" src="https://files.catbox.moe/ureiix.gif" />
- <img width="70" src="https://files.catbox.moe/j4xitf.png" />
+
  <img width="70" src="https://files.catbox.moe/m7akru.gif" />
 </p>
 
