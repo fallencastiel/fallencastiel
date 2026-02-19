@@ -9,11 +9,9 @@
 </p>
   
 <p align="center">
-   <img width="250" src="https://files.catbox.moe/eta3dg.jpeg"
+   <img width="250" src="https://files.catbox.moe/6rc5hv.jpeg"
 </p>
-   <p align="center">
-       @mahawavy
-   </p>
+
 <p align="center">
   <img width="250" src="https://files.catbox.moe/8snx2b.png"
 </p>
